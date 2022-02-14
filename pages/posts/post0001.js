@@ -9,7 +9,7 @@ export default function Post() {
         <title>TEACUP</title>
       </Head>
       <h1>Have a break?</h1>
-      <p>Grab a cup </p>
+      <p>Grab a cup.</p>
     </Layout>
   );
 }
